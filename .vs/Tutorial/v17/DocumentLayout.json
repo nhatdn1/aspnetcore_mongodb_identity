@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\8. WebAPI NetCore\\Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\repositories\\mongodbappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\repositories\\mongodbappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\helps\\corsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\helps\\corsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\helps\\versioningextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\helps\\versioningextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\mappings\\modelmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\mappings\\modelmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|d:\\8. webapi netcore\\tutorial\\tutorial\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69E44C6-E2FE-4F24-8F16-B61E761FE7A3}|Tutorial\\IntergrateMongodb.csproj|solutionrelative:tutorial\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoDbAppContext.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Repositories\\MongoDbAppContext.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Repositories\\MongoDbAppContext.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Repositories\\MongoDbAppContext.cs",
+              "RelativeToolTip": "Tutorial\\Repositories\\MongoDbAppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:10:26.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\appsettings.json",
+              "RelativeDocumentMoniker": "Tutorial\\appsettings.json",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\appsettings.json",
+              "RelativeToolTip": "Tutorial\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T08:09:52.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Tutorial\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:09:25.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CorsExtension.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Helps\\CorsExtension.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Helps\\CorsExtension.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Helps\\CorsExtension.cs",
+              "RelativeToolTip": "Tutorial\\Helps\\CorsExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:03:12.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Program.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Program.cs",
+              "RelativeToolTip": "Tutorial\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:05:57.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Models\\AppSettings.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Models\\AppSettings.cs",
+              "RelativeToolTip": "Tutorial\\Models\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:27:17.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VersioningExtension.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Helps\\VersioningExtension.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Helps\\VersioningExtension.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Helps\\VersioningExtension.cs",
+              "RelativeToolTip": "Tutorial\\Helps\\VersioningExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:05:32.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Models\\AppRole.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Models\\AppRole.cs",
+              "RelativeToolTip": "Tutorial\\Models\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:53:52.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Services\\UsersService.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Services\\UsersService.cs",
+              "RelativeToolTip": "Tutorial\\Services\\UsersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:38:54.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModelMapping.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Mappings\\ModelMapping.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Mappings\\ModelMapping.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Mappings\\ModelMapping.cs",
+              "RelativeToolTip": "Tutorial\\Mappings\\ModelMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:51:30.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Models\\AppUser.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Models\\AppUser.cs",
+              "RelativeToolTip": "Tutorial\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:43:41.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Dtos\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Dtos\\UpdateUserDto.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Dtos\\UpdateUserDto.cs",
+              "RelativeToolTip": "Tutorial\\Dtos\\UpdateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:38:59.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Dtos\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Dtos\\CreateUserDto.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Dtos\\CreateUserDto.cs",
+              "RelativeToolTip": "Tutorial\\Dtos\\CreateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:54:01.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Dtos\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Dtos\\LoginUserDto.cs",
+              "ToolTip": "D:\\8. WebAPI NetCore\\Tutorial\\Tutorial\\Dtos\\LoginUserDto.cs",
+              "RelativeToolTip": "Tutorial\\Dtos\\LoginUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:49:53.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
